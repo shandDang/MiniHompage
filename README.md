@@ -2,5 +2,5 @@
 
 ---
 
-기획 중...<br>
-push, pull 연습
+## 내비게이션 추가
+- navigation.md 추가
