@@ -9,5 +9,7 @@
 - navigation.md 추가
 
 ## 푸터 추가
-- footer.md파일 추가
+- footer.md 파일 추가
 
+## 서치 창 추가
+- search.md 파일 추가
